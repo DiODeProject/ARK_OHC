@@ -2776,7 +2776,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="R3" library="Passives" deviceset="RESISTOR" device="1206"/>
 <part name="R4" library="Passives" deviceset="RESISTOR" device="1206"/>
 <part name="R5" library="Passives" deviceset="RESISTOR" device="1206"/>
-<part name="J1" library="Connectors" deviceset="M02" device="PTH2"/>
+<part name="J1" library="Connectors" deviceset="M02" device="LOCK" value="+"/>
 <part name="LED2" library="led" deviceset="LED" device="5MM"/>
 <part name="LED3" library="led" deviceset="LED" device="5MM"/>
 <part name="LED4" library="led" deviceset="LED" device="5MM"/>
